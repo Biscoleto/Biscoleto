@@ -1,10 +1,15 @@
-- 👋 Olá, sou @Biscoleto
-- 👀 Estou interessado em aprender algumas coisa novas 
-- 🌱 Atualmente estou aprendendo a como programar um site
-- 💞️ Procuro colaborar futuramente em jogos ou sei la alguma coisa
-- 📫 Realmente nao quero que emtrem em contato comigo por emquanto, so timido
-- 😄 Pronomes: Bis/coito
-- ⚡ Curiosidade: Minha foto de perfil de um cachorro, ele se chama coragem, e de uma serie de animacoes meio antigas, recomendo vcs assistirem
+## Olaaa!!!!
+- # Seja bem vindo ao: Biscoitinho sendo obrigado a fazer coisas!!!!! 🥳
+- Estou studying com o Alura
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Vou usar esse espaço para projetos e compartilha-lhos
+
+- Se quiser entrar em contato nao tera como, infelismente nao irei colocar meu email🙂
+
+![](https://i.pinimg.com/originals/4b/15/ad/4b15ad105c802ff515e64914b535ca48.gif)
+
 
 <!---
 Biscoleto/Biscoleto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
